@@ -4,7 +4,6 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
-import app from 
 import aaa from 
 Vue.config.productionTip = false
 
